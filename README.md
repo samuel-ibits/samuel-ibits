@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/david-ibitoye-1677a0123/)
-[<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/david_ibitoye)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-ibitoye-profile/)
+[<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/samuel_ibits)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=repzlaw.repzlaw&theme=radical)
