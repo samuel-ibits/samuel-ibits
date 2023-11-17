@@ -1,6 +1,3 @@
-<head><link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js" />
-  </head>
 
 
 <!-- ### Hi there 👋 -->
@@ -44,4 +41,10 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-ibitoye-profile/)
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/samuel_ibits)
+
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
+<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js" />
+  </head>
 
