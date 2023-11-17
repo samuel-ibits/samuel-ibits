@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=samuel-ibits&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samuel-ibits&theme=radical&count_private=true&show_icons=true&langs_count=5)
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman)](https://skills.thijs.gg)
