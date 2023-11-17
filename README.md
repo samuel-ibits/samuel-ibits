@@ -1,8 +1,12 @@
+<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
+<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
+
 <!-- ### Hi there 👋 -->
-<p align="">
-  <H1>Hello I'm Samuel
+<p><H1><typewritten-textHello I'm Samuel!</typewritten-text></h1></p>
+<!-- <p align=""> -->
+  
 <!--     <img width="40%" src="./images/opensource.jpeg" /> -->
-  </h1></p>
+  
 
 <!--
 **repzlaw/repzlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
