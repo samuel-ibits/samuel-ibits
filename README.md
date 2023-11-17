@@ -1,8 +1,10 @@
 <link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
+<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js">
+  
+</script>
 
 <!-- ### Hi there 👋 -->
-<p><H1><typewritten-text> Hello I'm Samuel!</typewritten-text></h1></p>
+<H1><p><typewritten-text> Hello I'm Samuel! 👋 </typewritten-text></p></h1>
 <!-- <p align=""> -->
   
 <!--     <img width="40%" src="./images/opensource.jpeg" /> -->
