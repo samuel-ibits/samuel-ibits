@@ -45,6 +45,5 @@ Here are some ideas to get you started:
 
 <head>
   <link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js" />
   </head>
 
