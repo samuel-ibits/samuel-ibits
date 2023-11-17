@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <p align="">
-  <H1>Hello i'm Samuel
+  <H1>Hello I'm Samuel
 <!--     <img width="40%" src="./images/opensource.jpeg" /> -->
   </h1></p>
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman,python,react,ai,ml)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman,python,react,ai,ml,solidity)](https://skills.thijs.gg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ibits&&theme=tokyonight" alt="samuel" /></p>
