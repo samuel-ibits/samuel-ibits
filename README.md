@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman,python,reactjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,laravel,js,vuejs,nodejs,mongodb,mysql,aws,git,css,postman,python,react,ai,ml)](https://skills.thijs.gg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-ibits&&theme=tokyonight" alt="samuel" /></p>
