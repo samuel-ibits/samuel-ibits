@@ -2,7 +2,7 @@
 <script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
 
 <!-- ### Hi there 👋 -->
-<p><H1><typewritten-textHello I'm Samuel!</typewritten-text></h1></p>
+<p><H1><typewritten-text> Hello I'm Samuel!</typewritten-text></h1></p>
 <!-- <p align=""> -->
   
 <!--     <img width="40%" src="./images/opensource.jpeg" /> -->
