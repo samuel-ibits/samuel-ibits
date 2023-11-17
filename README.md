@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- - 🔭 Check me out on LinkedIN @ https://www.linkedin.com/in/david-ibitoye-1677a0123/ ... -->
+<!-- - 🔭 Check me out on LinkedIN @ https://www.linkedin.com/in/samuel-ibitoye-profile/ ... -->
 
 ![Github Stats](https://github-readme-stats-rongronggg9.vercel.app/api?username=repzlaw&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=repzlaw&theme=radical&count_private=true&show_icons=true&langs_count=5)
@@ -32,4 +32,3 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuel-ibitoye-profile/)
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/samuel_ibits)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=repzlaw.repzlaw&theme=radical)
