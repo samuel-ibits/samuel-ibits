@@ -1,5 +1,8 @@
 <!-- ### Hi there 👋 -->
-<p align=""><a href="#"><img width="40%" src="./images/opensource.jpeg" /></a></p>
+<p align="">
+  <a href="#">Hello i'm Samuel
+<!--     <img width="40%" src="./images/opensource.jpeg" /> -->
+  </a></p>
 
 <!--
 **repzlaw/repzlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
